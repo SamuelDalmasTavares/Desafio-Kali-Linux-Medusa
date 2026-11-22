@@ -1,0 +1,12 @@
+# Resultados de execução (gerados pelos scripts)
+images/*_resultado.txt
+images/*.txt
+
+# Wordlists grandes
+wordlists/custom.txt
+wordlists/rockyou.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
