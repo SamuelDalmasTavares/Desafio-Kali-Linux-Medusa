@@ -1,0 +1,15 @@
+root
+admin
+administrator
+user
+msfadmin
+ftp
+guest
+service
+test
+postgres
+mysql
+sys
+oracle
+backup
+www-data
